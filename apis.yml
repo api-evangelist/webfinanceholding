@@ -41,7 +41,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Holding Company
 - Debt Portfolio Management
 - Receivables
@@ -57,6 +57,7 @@ tags_raw:
 - Insurance
 - Banking
 - Bulgaria
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
